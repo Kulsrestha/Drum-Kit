@@ -15,7 +15,7 @@ You'll need a web browser and a text editor to view and edit the files.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/drum-kit.git
+    git clone https://github.com/Kulsrestha/drum-kit.git
     ```
 
 2. **Open the project folder:**
